@@ -1,0 +1,18 @@
+authority_level: null
+description: null
+archived: false
+slug: test
+archive_operation_id: null
+name: test
+personal_owner_id: null
+type: remote-synced
+is_sample: false
+parent_id: Z6m3BmZnFsoP930ypkG2f
+serdes/meta:
+- model: Collection
+  id: gC4bme34Ivr8i6WvX96GW
+  label: test
+archived_directly: null
+entity_id: gC4bme34Ivr8i6WvX96GW
+namespace: null
+created_at: '2025-10-28T18:53:22.734751Z'

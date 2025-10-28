@@ -59,7 +59,7 @@ result_metadata:
 card_schema: 22
 database_id: Sample Database
 enable_embedding: false
-collection_id: Z6m3BmZnFsoP930ypkG2f
+collection_id: gC4bme34Ivr8i6WvX96GW
 query_type: query
 name: Orders, Sum of Total Revenue, Grouped by Orders ID
 document_id: null
